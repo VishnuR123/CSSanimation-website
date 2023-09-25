@@ -1,4 +1,4 @@
-WOW FACTOR<br><br>
+CSS Animation<br><br>
 ![ff](https://user-images.githubusercontent.com/105124943/218796044-3a137f1e-cd10-47ef-b22c-b78eb3513ecd.gif)
 <br>
 OUTPUT<br><br>
